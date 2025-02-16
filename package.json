@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "dev": "pm2 start ecosystem.config.js --only api-server-dev,websocket-server-dev --env dev",
+    "prod": "pm2 start ecosystem.config.js --only api-server-prod,websocket-server-prod --env prod",
+    "dev:reload": "pm2 reload api-server-dev websocket-server-dev --update-env",
+    "prod:reload": "pm2 reload api-server-prod websocket-server-prod --update-env",
+    "dev:restart": "pm2 restart api-server-dev websocket-server-dev --update-env",
+    "prod:restart": "pm2 restart api-server-prod websocket-server-prod --update-env",
+    "dev:stop": "pm2 stop api-server-dev websocket-server-dev",
+    "prod:stop": "pm2 stop api-server-prod websocket-server-prod",
+    "dev:delete": "pm2 delete api-server-dev websocket-server-dev",
+    "prod:delete": "pm2 delete api-server-prod websocket-server-prod",
+    "logs:dev": "pm2 logs api-server-dev",
+    "logs:prod": "pm2 logs api-server-prod",
+    "logs:ws-dev": "pm2 logs websocket-server-dev",
+    "logs:ws-prod": "pm2 logs websocket-server-prod",
+    "pm2:save": "pm2 save",
+    "pm2:startup": "pm2 startup"
+  }
+}

@@ -1,0 +1,442 @@
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: Cannot find module 'dotenv'
+Require stack:
+- /mnt/c/VM/server_focal/node_multi_instance/app/api-server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Module.Hook._require.Module.require (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/mnt/c/VM/server_focal/node_multi_instance/app/api-server.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at /home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/lib/ProcessContainer.js:304:25
+    at wrapper (/home/feezybellz/.nvm/versions/node/v16.20.2/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
